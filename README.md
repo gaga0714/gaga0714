@@ -15,7 +15,7 @@
 ---
 
 <div>
-    <img src="https://github-immortality.vercel.app/api?username=gaga0714" width="335"  align="right" />
+    <img src="https://github-immortality.vercel.app/api?username=gaga0714" align="right" />
 </div>
 
 <div>
