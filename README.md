@@ -3,7 +3,7 @@
 <img style="width: 450px;" src="https://count.getloli.com/@gaga0714?theme=booru-mjg" align = "right" />
 </div>
 
----
+
 
 <h3>Who Is GaGa</h3>
 
@@ -12,6 +12,7 @@
 - Frontend & Backend & Algorithms
 - Badminton & Music & Travel 
 
+---
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;justify-content: space-between;">
   <div>
@@ -36,28 +37,37 @@
   </div>
 
   <div>
-    <img src="https://github-immortality.vercel.app/api?username=gaga0714"  align="right" />
+    <img src="https://github-immortality.vercel.app/api?username=gaga0714&width=335&"  align="right" />
   </div>
 
 </div>
 
+---
+
+
 <!-- <h3>Stats</h3>
 <div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="left"  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gaga0714&hide_title=true&theme=vue-dark&card_width=495&show_icons=true" align="right"  />
-</div> -->
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gaga0714&theme=github-compact" />
+-->
+  <!-- <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaga0714&layout=compact" align="left"  /> -->
+  <!-- <img
+    src="https://github-readme-stats.vercel.app/api?username=gaga0714&hide_title=true&theme=vue-dark&card_width=495&show_icons=true" align="right"  /> -->
+<!-- </div> --> 
 
 
-<picture>
+<!-- <div>
+  <img style="width: 500px; height: 490px;" src="https://wakatime.com/share/@gaga0714/baf43608-e008-4d37-a239-bb2ca2b127b9.svg"/>
+<div> -->
+
+  <!-- <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gaga0714&theme=github-compact" /> -->
+
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaga0714/gaga0714/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaga0714/gaga0714/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaga0714/gaga0714/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 <!--
 **gaga0714/gaga0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
