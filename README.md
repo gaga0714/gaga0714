@@ -14,19 +14,25 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;justify-content: space-between;">
-  <div style="flex: 1; min-width: 300px; max-width: 55%;">
+<div>
+    <img src="https://github-immortality.vercel.app/api?username=gaga0714" width="335"  align="right" />
+</div>
+
+<div>
     <h3>Languages</h3>
     <div>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" /></code>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" /></code>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" /></code>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" /></code>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" /></code>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg" alt="java" /></code>
-      <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg" alt="python" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/css-3.svg" alt="css" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/java.svg" alt="java" /></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/python.svg" alt="python" /></code>
     </div>
-<h3>Frameworks and Tools</h3>
+</div>
+
+<div>
+    <h3>Frameworks and Tools</h3>
     <div>
       <code><img height="20" src="https://cdn.svgporn.com/logos/vue.svg" alt="vue" /></code>
       <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg" alt="react" /></code>
@@ -34,13 +40,8 @@
       <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" /></code>
       <code><img height="20" src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" /></code>
     </div>
-  </div>
-
-  <div>
-    <img src="https://github-immortality.vercel.app/api?username=gaga0714" width="335"  align="right" />
-  </div>
-
 </div>
+
 
 
 
