@@ -15,7 +15,7 @@
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;justify-content: space-between;">
-  <div>
+  <div style="flex: 1; min-width: 300px; max-width: 55%;">
     <h3>Languages</h3>
     <div>
       <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" /></code>
@@ -37,7 +37,7 @@
   </div>
 
   <div>
-    <img src="https://github-immortality.vercel.app/api?username=gaga0714&width=335&"  align="right" />
+    <img src="https://github-immortality.vercel.app/api?username=gaga0714" width="335"  align="right" />
   </div>
 
 </div>
